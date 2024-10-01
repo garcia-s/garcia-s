@@ -1,5 +1,5 @@
 
-# Hello, I'm Juan Garcia. Fullstack developer.
+# Hello, I'm Juan Garcia, a Fullstack dev and tech enthusiast.
 
 ## My working setup:
 
