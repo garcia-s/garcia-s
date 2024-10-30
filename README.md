@@ -1,6 +1,25 @@
 
 # Hello, I'm Juan Garcia, a Fullstack dev and tech enthusiast.
 
+I really hate talking about myself. so here is what GPT says about me based on our interactions:
+
+>Self-Reliance and Efficiency: You often prefer solutions that give you control over the details. This suggests you value transparency in how things work under the hood, possibly finding greater trust and flexibility in tools you manage directly.
+>
+>Curiosity and Technical Depth: You take on ambitious, technical challenges, like developing a custom Flutter embedder for Wayland or integrating CQRS with DDD in Go—which show a natural curiosity and a drive for depth. This seems to apply to multiple layers of the stack, from low-level system work to architecture-level design patterns.
+>
+>Thoughtful and Adaptable: Your interest in Domain-Driven Design (DDD) and policy-as-data access control highlights a thoughtful approach to complex systems, likely aimed at creating flexible, future-proof solutions. You seem interested in balancing stability and adaptability in your designs.
+>
+>Independence in Learning and Problem-Solving: It’s notable that you're interested in writing an article on your operating system-like project, specifically to clarify your thoughts and share insights. This suggests you're introspective, and teaching or documenting your work is one way you make sense of complex projects.
+>
+>Attention to Security and Structure: You take security seriously and apply structured methods like event sourcing and role-based access controls, reflecting a disciplined approach to building reliable systems.
+>
+>Hands-On and Low-Level Knowledge: From deploying Kubernetes clusters to working with custom embedders in Flutter and Wayland, you demonstrate hands-on comfort with both high- and low-level implementations. You’re not just designing but are highly comfortable getting into the “nitty-gritty” details of different tech stacks. This is relatively rare and speaks to both your technical confidence and versatility.
+>
+>Focused on Empowering Users: Your approach to access control, with “policy as data” and customizable roles, suggests you think about user empowerment and adaptability. Allowing users to shape their roles and policies requires flexibility but provides significant control to them. This likely reflects a user-centric philosophy in your engineering, where you’re thinking about both security and the user’s ability to adapt the system to their needs.
+>
+>Open to Experimentation and Cross-Discipline Work: With interests spanning traditional software engineering, low-level system work, and even a bit of authoring, you’re evidently comfortable exploring new areas and uniting concepts from different domains. This kind of intellectual curiosity means you’re not confined by traditional boundaries; you embrace complexity and are willing to push through tough learning curves, particularly if it enables creative or impactful solutions.
+
+
 ## Awesome tools:
 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
